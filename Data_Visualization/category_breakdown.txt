@@ -1,0 +1,51 @@
+BREAKDOWN OF CATEGORIES: 
+
+Home Decor: Wine Holder(21), NAN(3610), Lamp(224), Altar(14), Mat(27), Cage(3), Mask(6), Objects(528), Bowl(98), Painting(36), Utensil(42), Hook(258), Box(807), Bracket(97), Animal(874), Glass(35), Tray(259), Cow Bell(50), Ala(16), Plate(4), Hanging(519), Keychain(112), Keyholders(44), Stool(132), Temple(31), Planters(197), Charpai(3), Statue(2), Wind Chime(130), 
+
+Mirror: NAN(365), 
+
+Trunk: Pitara(17), Chest(190), 
+
+Chair: Bench(127), Sofa Chair with Fabric(18), Sitting Chair(221), Cane Chair(17), Sofa Chair with Leather(2), Bar Chair(5), Folding Chair(9), Planter(21), 
+
+Bed: NAN(111), 
+
+Table: Console(78), Coffee Table(420), Stool(181), Dining Table(81), Bedside(77), Nesting(3), Side Table(70), Study Table(143), Roll Top Table(2), Garden Table(6), Bar Table(16), Sewing Machine Table(7), Nesting Table(7), Dressing Table(40), Regular(2), 
+
+Bajot: Regular(92), Chaurangi(13), Pidda(32), 
+
+Shelf: Open Shelf(192), Book Shelf(61), Regular(2), 
+
+nan: 
+
+Cupboard: Cabinet(301), Regular(228), Showcase(147), 
+
+Sofa: Fabric(23), Cane(14), Fabric (91), Leather(1), 
+
+Furniture: NAN(18), 
+
+Partition: NAN(2), 
+
+Jewellery: Necklace(3), Bracelet(1), 
+
+Swing: NAN(87), 
+
+Stand: Candle Stand(190), Towel Stand(141), Magazine Stand(295), Hat Rack(18), Coat Rack(21), Regular(1), Shoe Rack(45), Plate Stand(12), 
+
+Trolly: NAN(4), 
+
+Frame: NAN(298), 
+
+Ladder: NAN(2), 
+
+Door: NAN(13), 
+
+Window: NAN(14), 
+
+Arch: NAN(2), 
+
+Panel: NAN(1), 
+
+Pillar: NAN(6), 
+
+Easel: NAN(9), 

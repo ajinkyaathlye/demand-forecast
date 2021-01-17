@@ -1,0 +1,2 @@
+model_checkpoint_path: "kaggle_rnn"
+all_model_checkpoint_paths: "kaggle_rnn"

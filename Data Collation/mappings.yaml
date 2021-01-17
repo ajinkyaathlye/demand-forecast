@@ -1,0 +1,304 @@
+#All 'Material' values will be changed via code. Wood is simply a default value.
+#Home Decor mappings added --> Tray,
+#NOTE: Check for cabinets in description for items categorized in 'Cupboard'
+furniture:
+    Furniture:
+      Category: 'Furniture'
+      Type: NULL
+      Material: 'Wood'
+    Garden Furniture:
+      Category: 'Table'
+      Type: 'Garden Table'
+      Material: 'Metal'
+    Magazine Stands:
+      Category: 'Stand'
+      Type: 'Magazine Stand'
+      Material: 'Wood'
+    Mirror:
+      Category: 'Mirror'
+      Type: NULL
+      Material: 'Glass and Wood'
+    Nesting Table:
+      Category: 'Table'
+      Type: 'Nesting Table'
+      Material: 'Wood'
+    Partitions:
+      Category: 'Partition'
+      Type: NULL
+      Material: 'Wood'
+    Sideboard:
+      Category: 'Cupboard'
+      Type: 'Cabinet'
+      Material: 'Wood'
+    Sofa:
+      Category: 'Sofa'
+      Type: 'Fabric'
+      Material: 'Wood'
+    Stools:
+      Category: 'Table'
+      Type: 'Stool'
+      Material: 'Wood'
+    Swing:
+      Category: 'Swing'
+      Type: NULL
+      Material: 'Wood'
+    Table:
+      Category: 'Table'
+      Type: 'Coffee Table' #Will be changed via code
+      Material: 'Wood'
+    TV unit:
+      Category: 'Cupboard'
+      Type: 'Cabinet'
+      Material: 'Wood'
+    Alter:
+      Category: 'Altar'
+      Type: NULL
+      Material: 'Wood'
+    Bar Cabinet:
+      Category: 'Cupboard'
+      Type: 'Cabinet'
+      Material: 'Wood'
+    Base/Stand:
+      Category: 'Stand'
+      Type: 'Hat Rack' #Will be changed via code
+      Material: 'Wood'
+    Bed:
+      Category: 'Bed'
+      Type: NULL
+      Material: 'Wood'
+    Bed side table:
+      Category: 'Table'
+      Type: 'Bedside'
+      Material: 'Wood'
+    Bench:
+      Category: 'Chair'
+      Type: 'Bench'
+      Material: 'Wood'
+    Book stand_Shelf:
+      Category: 'Shelf'
+      Type: 'Book Shelf'
+      Material: 'Wood'
+    Brass/Animal Stools/Bench:
+      Category: 'Home Decor' #Entered as home decor according to self categorization
+      Type: 'Stool'
+      Material: 'Wood'
+    Animal Stools:
+      Category: 'Home Decor'
+      Type: 'Stool'
+      Material: 'Wood'
+    Butler Tray:
+      Category: 'Home Decor'
+      Type: 'Tray'
+      Material: 'Wood'
+    Cabinet:
+      Category: 'Cupboard'
+      Type: 'Cabinet'
+      Material: 'Wood'
+    Center Table:
+      Category: 'Table'
+      Type: 'Coffee Table'
+      Material: 'Wood'
+    Chair:
+      Category: 'Chair'
+      Type: 'Sitting Chair' #Will change via code
+      Material: 'Wood'
+    Chaurang/Bajot/Peda:
+      Category: 'Bajot'
+      Type: 'Regular' #Will change via code
+      Material: 'Wood'
+    Chest of drawers:
+      Category: 'Trunk'
+      Type: 'Chest'
+      Material: 'Wood'
+    Chest/Pitara:
+      Category: 'Trunk'
+      Type: 'Chest' #Will change via code
+      Material: 'Wood'
+    Clothes stand/Coat Stand:
+      Category: 'Stand'
+      Type: 'Towel Rack' #Check once in inventory data for exact name
+      Material: 'Wood'
+    Console table:
+      Category: 'Table'
+      Type: 'Console'
+      Material: 'Wood'
+    Corner Cabinet/Shelf:
+      Category: 'Shelf'
+      Type: 'Open Shelf' #Check for exact name
+      Material: 'Wood'
+    Cupboard:
+      Category: 'Cupboard'
+      Type: 'Regular' #Will change via code.
+      Material: 'Wood'
+    Decor:
+      Category: 'Home Decor'
+      Type: 'Objects' #Huge assortment of sub-categorical data. Will need to processed heavily.
+      Material: 'Wood'
+    Desk:
+      Category: 'Table'
+      Type: 'Study Table'
+      Material: 'Wood'
+    Dining Table:
+      Category: 'Table'
+      Type: 'Dining Table'
+      Material: 'Wood'
+    Dressing Table:
+      Category: 'Table'
+      Type: 'Dressing Table'
+      Material: 'Wood'
+    Easel:
+      Category: 'Easel'
+      Type: NULL
+      Material: 'Wood'
+
+home_decor:
+  Home Decor:
+    Category: 'Home Decor'
+    Type: NULL
+    Material: 'Wood'
+  Hook:
+    Category: 'Home Decor'
+    Type: 'Hook'
+    Material: 'Metal'
+  Keychain:
+    Category: 'Home Decor'
+    Type: 'Keychain'
+    Material: 'Metal'
+  Keyholders:
+    Category: 'Home Decor'
+    Type: 'Keyholders'
+    Material: 'Wood'
+  Lantern/Lamp:
+    Category: 'Home Decor'
+    Type: 'Lamp'
+    Material: 'Glass'
+  Letter Box:
+    Category: 'Home Decor'
+    Type: 'Box'
+    Material: 'Wood'
+  Mana/Cow Bell:
+    Category: 'Home Decor'
+    Type: 'Cow Bell'
+    Material: 'Metal'
+  Marble plate/Bowl:
+    Category: 'Home Decor'
+    Type: 'Plate'
+    Material: 'Stone'
+  Mix Animals:
+    Category: 'Home Decor'
+    Type: 'Animal'
+    Material: 'Wood'
+  Old Animals:
+    Category: 'Home Decor'
+    Type: 'Animal'
+    Material: 'Wood'
+  Mug/Glass:
+    Category: 'Home Decor'
+    Type: 'Glass'
+    Material: 'Glass'
+  Painting:
+    Category: 'Home Decor'
+    Type: 'Painting'
+    Material: NULL
+  Parat:
+    Category: 'Home Decor'
+    Type: 'Utensil'
+    Material: 'Metal'
+  Photo frame:
+    Category: 'Frame'
+    Type: ''
+    Material: 'Wood'
+  Planters:
+    Category: 'Home Decor'
+    Type: 'Planters'
+    Material: 'Wood'
+  Printing/Rangoli Block:
+    Category: 'Home Decor'
+    Type: 'Objects'
+    Material: 'Wood'
+  Tissue Box:
+    Category: 'Home Decor'
+    Type: 'Box'
+    Material: 'Wood'
+  Tray/Platter/Plate:
+    Category: 'Home Decor'
+    Type: 'Tray'
+    Material: 'Wood'
+  Vase/Bottle:
+    Category: 'Home Decor'
+    Type: 'Objects'
+    Material: 'Glass'
+  Wall Bracket/Shelf:
+    Category: 'Home Decor'
+    Type: 'Bracket'
+    Material: 'Wood'
+  Windchime:
+    Category: 'Home Decor'
+    Type: 'Wind Chime'
+    Material: NULL
+  Wine Holder:
+    Category: 'Home Decor'
+    Type: 'Wine Holder'
+    Material: 'Wood'
+  Agarbatti Stand:
+    Category: 'Home Decor'
+    Type: 'Objects'
+    Material: 'Wood'
+  Basket:
+    Category: 'Home Decor'
+    Type: 'Objects'
+    Material: 'Metal'
+  Bird Feeder/House:
+    Category: 'Home Decor'
+    Type: 'Objects'
+    Material: 'Metal'
+  Book End:
+    Category: 'Home Decor'
+    Type: 'Objects'
+    Material: 'Wood'
+  Bowl:
+    Category: 'Home Decor'
+    Type: 'Bowl'
+    Material: 'Wood'
+  Boxes:
+    Category: 'Home Decor'
+    Type: 'Box'
+    Material: 'Wood'
+  Candlestand:
+    Category: 'Stand'
+    Type: 'Candle Stand'
+    Material: 'Wood'
+  Coaster:
+    Category: 'Home Decor'
+    Type: 'Objects'
+    Material: 'Wood'
+  Flowers:
+    Category: 'Home Decor'
+    Type: 'Objects'
+    Material: NULL
+  Handle/Knob/Tile:
+    Category: 'Home Decor'
+    Type: 'Objects'
+    Material: 'Metal'
+  Hanging:
+    Category: 'Home Decor'
+    Type: 'Hanging'
+    Material: 'Fabric'
+
+gdp_quarter_to_date:
+  Q1:
+    - "01"
+    - "02"
+    - "03"
+  Q2:
+    - "04"
+    - "05"
+    - "06"
+  Q3:
+    - "07"
+    - "08"
+    - "09"
+  Q4:
+    - "10"
+    - "11"
+    - "12"
